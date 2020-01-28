@@ -1,0 +1,11 @@
+# Macro file: run.mac
+
+/run/verbose 1
+/tracking/verbose 0
+
+/gun/particle gamma
+/gun/energy 662 keV
+#/gun/energy 796 keV
+#/gun/energy 804 keV
+
+/run/beamOn 10000000
